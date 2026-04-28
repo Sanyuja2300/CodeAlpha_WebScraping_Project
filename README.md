@@ -17,5 +17,5 @@ This project extracts quotes and authors from a website using Python.
 
 ## 🔹 Author
 
-Your Name
+
 Sanyuja Mithari
